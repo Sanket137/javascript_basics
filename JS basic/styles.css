@@ -1,0 +1,74 @@
+
+
+
+.navbar{
+    display: flex;
+}
+
+.navbar-brand{
+    margin-left: 12rem;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 1.5rem;
+
+}
+.navbar-list{
+    margin-right: 12rem;
+}
+.nav-item{
+    padding: 0 1.5rem;
+}
+.main-section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.main_img{
+    width: 600px;
+}
+.main_heading{
+    text-align: start;
+}
+.main_title{
+    font-family: 'Pacifico';
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 3;
+    
+}
+.main_sub-title{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: rgb(59, 59, 59);
+    padding-right: 200px;
+}
+
+.about-section{
+    
+    padding: 100px 100px;
+    text-align: center;
+    justify-content: center;
+    margin: 50px auto;
+}
+.about-heading{
+       
+    
+    padding: auto 100px;
+}
+
+.about-title{
+    font-family: 'Poppins';
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 4;
+}
+.about-descp{
+    font-family: 'Poppins';
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding: 50px 100px;
+}
+.features-card{
+    margin: 0 100px;
+}
